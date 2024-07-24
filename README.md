@@ -32,4 +32,25 @@ Aquí se pueden incluir algunas capturas de pantalla para mostrar la interfaz de
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Siéntete libre de hacer un fork de este repositorio y enviar pull requests. Si encuentras algún problema o
+Las contribuciones son bienvenidas. Siéntete libre de hacer un fork de este repositorio y enviar pull requests. Si encuentras algún problema o tienes sugerencias para mejorar la aplicación, no dudes en abrir un **issue** en el repositorio. Esto permitirá a otros usuarios y colaboradores conocer y discutir sobre posibles mejoras o errores.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Siéntete libre de hacer un fork de este repositorio y enviar pull requests. Si encuentras algún problema o tienes sugerencias para mejorar la aplicación, no dudes en abrir un **issue** en el repositorio. Esto permitirá a otros usuarios y colaboradores conocer y discutir sobre posibles mejoras o errores.
+
+Para contribuir, sigue estos pasos:
+
+1. **Haz un Fork**: Clona el repositorio en tu cuenta de GitHub.
+2. **Crea una Rama**: Crea una nueva rama para tus cambios.
+3. **Realiza tus Cambios**: Haz las modificaciones necesarias.
+4. **Envía un Pull Request**: Envía un pull request para que revise tus cambios.
+
+¡Apreciaría tu interés en mejorar el proyecto y tu tiempo para contribuir!
+
+## Licencia
+
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE). Para más detalles, consulta el archivo `LICENSE` en el repositorio.
+
+---
+
+¡Gracias por usar Text Encryptor! Espero que encuentres útil esta herramienta. No dudes en compartir tus comentarios y sugerencias.
