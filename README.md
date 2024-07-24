@@ -24,6 +24,16 @@ Text Encryptor convierte texto de entrada en una versión encriptada utilizando 
 
 Aquí se pueden incluir algunas capturas de pantalla para mostrar la interfaz de la aplicación y cómo funciona.
 
+### Interfaz en el menú principal
+<img src="images/screenshot-main.png" alt="Interfaz del menú principal" width="600" style="border: 2px solid #000; border-radius: 0.5rem; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); padding: 10px;"/>
+
+### Interfaz de Encriptación
+<img src="images/screenshot-encrypt.png" alt="Interfaz de Encriptación" width="600" style="border: 2px solid #000; border-radius: 0.5rem; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); padding: 10px;"/>
+
+### Interfaz de Desencriptación
+<img src="images/screenshot-dencrypt.png" alt="Interfaz de Desencriptación" width="600" style="border: 2px solid #000; border-radius: 0.5rem; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); padding: 10px;"/>
+
+
 ## Tecnologías Utilizadas
 
 - **HTML**
