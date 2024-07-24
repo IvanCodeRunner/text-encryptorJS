@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador de Textos</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <header id="header">
+        <h1 id="header__text">Encriptador de Textos</h1>
+    </header>
+    <main id="main__container">
+        <div id="container__encrypt">
+            <textarea id="inputText" placeholder="Introduce el texto aquí..."></textarea>
+            <div id="error"></div>
+            <div id="container__outputText"> 
+                <div id="out_outText_principal" class="outputText__img">
+                    <img id="out_outText__IMG" src="assets/looking_for.jpg" alt="waiting_for">
+                    <a href="https://www.freepik.com/free-vector/business-team-looking-new-people-allegory-searching-ideas-staff-woman-with-magnifier-man-with-spyglass-flat-illustration_16368963.htm#fromView=search&page=1&position=3&uuid=addc9e47-12b8-4038-b93b-08e005981c27" class="attribution">Image by pch.vector on Freepik</a>
+                </div>
+                <p id="out_outText"></p>
+                <p id="out_outText2"></p>
+                <div id="outputTextContainer">
+                    <div id="out_outText_encryptImage" class="outputText__img">
+                        <img id="encryptImage" src="/assets/decryptImage.png" alt="Encrypt Image">
+                        <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=28163" class="attribution">
+                        Clker-Free-Vector-Images from Pixabay
+                        </a> 
+                    </div>
+                    <div id="out_outText_decryptImage" class="outputText__img">
+                        <img id="decryptImage" src="/assets/encryptImage.png" alt="Decrypt Image">
+                        <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=27839" class="attribution">
+                        Clker-Free-Vector-Images from Pixabay
+                        </a> 
+                    </div>
+                    <p id="outputText"></p>
+                </div>                
+            </div>
+        </div>
+        <div id="container__button">
+            <button class="button" id="encryptButton">Encriptar</button>
+            <button class="button" id="decryptButton">Desencriptar</button>
+            <button class="button" id="copyButton">Copiar</button>
+            <button class="button" id="restartButton">Reiniciar</button>
+        </div>
+    </main>
+    <footer>
+        <p>Desarrollado por Ivan Valencia</p>
+    </footer>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>
