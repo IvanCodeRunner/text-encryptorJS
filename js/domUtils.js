@@ -41,7 +41,7 @@ export function mostrarElementoBlock(elemento){
 // Función para inicializar las condiciones iniciales de la aplicación
 export function condicionesIniciales(){
     asignarTextoElemento('out_outText', 'Ningún mensaje fue encontrado.');
-    asignarTextoElemento('out_outText2', 'Ingresa el texto que desees encriptar o desencriptar en el lado derecho.');
+    asignarTextoElemento('out_outText2', 'Ingresa el texto que desees encriptar o desencriptar en el lado derecho (Solo se aceptan letras minúsculas).');
     mostrarElementoBlock('out_outText');
     mostrarElementoBlock('out_outText2');
     mostrarElementoBlock('main__container');
